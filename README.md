@@ -2,7 +2,6 @@
 
  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=30A3D&size=60&center=true&vCenter=true&width=1000&lines=Conecte-se+Comigo+<3)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ff9070)](https://www.linkedin.com/in/michele-o-041092289/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=ff9070)](https://github.com/AtomHeartGirl)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:micheleoliveira.9669@gmail.com)
 ## Habilidades                        
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=000)
