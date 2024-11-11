@@ -20,6 +20,11 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=000)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
+## GitHub stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtomHeartSister&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff9070&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AtomHeartSister&layout=compact&bg_color=000&border_color=30A3DC&title_color=ff9070&text_color=FFF)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AtomHeartSister&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff9070&text_color=FFF)](https://github.com/AtomHeartSister/dio-lab-open-source)
+
 
 
 
