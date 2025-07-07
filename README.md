@@ -22,9 +22,8 @@
 
 ## GitHub stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtomHeartSister&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff9070&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mi-Missy&layout=compact&bg_color=000&border_color=30A3DC&title_color=ff9070&text_color=FFF)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mi-Missyab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ff9070&text_color=FFF)](https://github.com/AtomHeartSister/dio-lab-open-source)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mi-Missy&layout=compact&bg_color=000&border_color=30A3DC&title_color=ff9070&text_color=FFF)
 
 
 
